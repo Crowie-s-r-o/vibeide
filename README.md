@@ -19,7 +19,7 @@
 - **Plan council.** Codex or Claude Code drafts a read-only plan, the other reviews it, and the author revises it before a separate execution handoff.
 - **Turbo.** A fresh planner builds a dependency graph, then a separate executor implements and verifies the whole graph.
 - **Standup.** Turns completed work from a chosen day into short Added, Changed and Fixed notes.
-- **Mobile control.** Queue and review work on your paired computer from your phone, end-to-end encrypted.
+- **Mobile control.** Queue and review work on your paired computer from your phone. Current versions encrypt commands and results end to end between the phone and the computer.
 - **Your own accounts.** VibeiDE runs the CLIs you already installed and signed in to. Credentials stay in those CLIs.
 
 ## Supported coding agents
