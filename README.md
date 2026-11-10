@@ -38,7 +38,7 @@ One working CLI is enough for a first task.
 | --- | --- |
 | macOS | Supported and fully validated |
 | Windows | Supported; complete product validation is on macOS |
-| Linux x64 | Experimental (AppImage); packaged startup and PTY smoke coverage, manual updates |
+| Linux x64 | Supported as an AppImage; updates are manual downloads |
 
 Download the installer for your system from [vibeide.dev/releases/desktop](https://vibeide.dev/releases/desktop/).
 
