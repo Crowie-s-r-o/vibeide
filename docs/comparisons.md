@@ -6,7 +6,7 @@ Each comparison is maintained on vibeide.dev with dates, sources and the limits 
 | --- | --- | --- |
 | Separate terminals | Separate agent terminals compared with a project task queue and completion review | [VibeiDE vs separate terminals](https://vibeide.dev/compare/vibeide-vs-multiple-terminals/) |
 | tmux | A terminal multiplexer compared with task orchestration, saved context and review | [VibeiDE vs tmux](https://vibeide.dev/compare/vibeide-vs-tmux/) |
-| Conductor | A task queue on macOS, Windows and Linux compared with a Mac app that gives each task a workspace | [VibeiDE vs Conductor](https://vibeide.dev/compare/vibeide-vs-conductor/) |
+| Conductor | Conductor closed to new users on November 4, 2026 as it joins Meta; how a task queue on macOS, Windows and Linux compares | [VibeiDE vs Conductor](https://vibeide.dev/compare/vibeide-vs-conductor/) |
 | Claude Squad | A desktop task and review workflow compared with a terminal workspace for several agents | [VibeiDE vs Claude Squad](https://vibeide.dev/compare/vibeide-vs-claude-squad/) |
 | Warp | A coding agent queue compared with a terminal and agent development environment | [VibeiDE vs Warp](https://vibeide.dev/compare/vibeide-vs-warp/) |
 | BridgeMind | Price, trial, supported agents and what happens at a usage limit | [VibeiDE vs BridgeMind](https://vibeide.dev/compare/vibeide-vs-bridgemind/) |
